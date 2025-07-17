@@ -10,7 +10,7 @@ This is only tested on Mac.
 
 ```bash
 npm install
-npm make-mac
+npm run make-mac
 ```
 
 The open the created `Moorhen.app` somewhere in the `out` directory.
