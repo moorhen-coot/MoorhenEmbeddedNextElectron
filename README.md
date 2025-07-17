@@ -15,4 +15,11 @@ npm run make-mac
 open out/Moorhen-darwin-arm64/Moorhen.app/
 ```
 
-You can start tweaking this example app by modifying `src/app/WrappedMoorhen.tsx`. The page usually auto-updates as you edit the file.
+On Intel Linux:
+```bash
+npm install
+npm run make-linux
+MoorhenElectron/out/Moorhen-linux-x64/Moorhen --no-sandbox
+```
+
+You can start tweaking this example app by modifying `src/app/MoorhenWrapper.tsx`. The page usually auto-updates as you edit the file.

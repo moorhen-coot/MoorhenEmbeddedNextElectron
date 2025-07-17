@@ -1,5 +1,4 @@
 'use client'
-import { WrappedMoorhen } from './WrappedMoorhen';
 import  MoorhenWrapper from './MoorhenWrapper';
 import { Provider } from 'react-redux';
 import { MoorhenReduxStore } from 'moorhen'
