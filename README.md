@@ -8,11 +8,11 @@ This is only tested on Mac.
 
 # Moorhen Embedded in Electron/NextJS
 
+On ARM (M1, etc.) Mac:
 ```bash
 npm install
 npm run make-mac
+open out/Moorhen-darwin-arm64/Moorhen.app/
 ```
-
-The open the created `Moorhen.app` somewhere in the `out` directory.
 
 You can start tweaking this example app by modifying `src/app/WrappedMoorhen.tsx`. The page usually auto-updates as you edit the file.
