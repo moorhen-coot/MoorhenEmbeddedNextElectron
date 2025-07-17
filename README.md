@@ -4,7 +4,7 @@ It is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-ap
 
 ## Getting Started
 
-This is only tested on Mac.
+This has only been tested on Mac.
 
 # Moorhen Embedded in Electron/NextJS
 
