@@ -4,7 +4,7 @@ It is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-ap
 
 ## Getting Started
 
-This is only tested on Mac.
+This has only been tested on Mac.
 
 # Moorhen Embedded in Electron/NextJS
 
@@ -19,7 +19,7 @@ On Intel Linux:
 ```bash
 npm install
 npm run make-linux
-MoorhenElectron/out/Moorhen-linux-x64/Moorhen --no-sandbox
+out/Moorhen-linux-x64/Moorhen --no-sandbox
 ```
 
 You can start tweaking this example app by modifying `src/app/MoorhenWrapper.tsx`. The page usually auto-updates as you edit the file.
